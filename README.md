@@ -15,18 +15,18 @@
 ## About The Project : Handle fictional students of a fictional organization with a fictional database
 
 We wanna create an app that will allow to handle students. Each student is defined by 
--a numerical code auto incremented by the app 
--a name 
--an email 
--a picture 
+a numerical code auto incremented by the app 
+a name 
+an email 
+a picture 
 
 This app should allow to : 
--insert a new student 
--add the new student in the data base 
--display all the students 
--delete a student 
--edit and modify the datas of a student 
--search for the student if they have a key word linked to them 
+insert a new student 
+add the new student in the data base 
+display all the students 
+delete a student 
+edit and modify the datas of a student 
+search for the student if they have a key word linked to them 
 
 
 
